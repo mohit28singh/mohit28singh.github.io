@@ -1,0 +1,13 @@
+# Python files
+*.pyc
+
+# Compiled files
+*.class
+*.jar
+
+# IDE files
+.idea/
+.vscode/
+
+# Dependency directories
+node_modules/
